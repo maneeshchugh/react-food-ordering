@@ -24,7 +24,7 @@ export const Navigation = () => {
                 </NavLink>
             </li>
         </ul>
-        <h3 className="heading">Welcome to Shreyas's food order website</h3>
+        <h3 className="heading">Welcome to Maneesh's food order website</h3>
         <p className="cart" onClick={handleModalOpen}>Cart items ( {totalItems} )</p>
     </header>
 }
